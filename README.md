@@ -1,8 +1,10 @@
 ## OpenSODA挑战赛T3：基于机器学习的 OpenRank 指标拟合与优化
 
-**队伍：**vision
+队伍：vision
 
-**项目B站链接：**https://www.bilibili.com/video/BV1VN4y1Z7wQ/?spm_id_from=333.999.top_right_bar_window_default_collection.content.click&vd_source=efe075d2ac8f2a60dda4195a8241736d
+项目B站链接：https://www.bilibili.com/video/BV1VN4y1Z7wQ/?spm_id_from=333.999.top_right_bar_window_default_collection.content.click&vd_source=efe075d2ac8f2a60dda4195a8241736d
+
+Github：https://github.com/BhJia/Openrank-fitting
 
 
 
